@@ -27,7 +27,7 @@ Below is the BibTex for citing this snapshot of the repository.
 @misc{CacheTest,
   author =        {Van Lieshout, R.N., Van der Schaft, D.T.J.},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
+  title =         {{Dynamic Discretization Discovery for the Multi-Depot Vehicle Scheduling Problem with Trip Shifting}},
   year =          {2020},
   doi =           {10.1287/ijoc.2024.0698.cd},
   url =           {https://github.com/INFORMSJoC/2024.0698},
