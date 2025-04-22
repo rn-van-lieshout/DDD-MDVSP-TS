@@ -1,4 +1,41 @@
-# DDD-MDVSP-TS
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+# CacheTest
+
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
+The software and data in this repository are a snapshot of the software and data
+that were used in the research reported on in the paper 
+[This is a Template](https://doi.org/10.1287/ijoc.2024.0698) by T. Ralphs. 
+
+**Important: This code is being developed on an on-going basis at 
+https://github.com/rn-van-lieshout/DDD-MDVSP-TS. Please go there if you would like to
+get a more recent version or would like support**
+
+## Cite
+
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2024.0698
+
+https://doi.org/10.1287/ijoc.2024.0698.cd
+
+Below is the BibTex for citing this snapshot of the repository.
+
+```
+@misc{CacheTest,
+  author =        {Van Lieshout, R.N., Van der Schaft, D.T.J.},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{CacheTest}},
+  year =          {2020},
+  doi =           {10.1287/ijoc.2024.0698.cd},
+  url =           {https://github.com/INFORMSJoC/2024.0698},
+  note =          {Available for download at https://github.com/INFORMSJoC/2024.0698},
+}  
+```
+
+## Description
  
 This repository contains the code for solving the Multi-Depot Vehicle Scheduling Problem with Trip Shifting. Three algorithms are implemented: 
 
