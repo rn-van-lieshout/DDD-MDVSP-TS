@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2024.0698) by T. Ralphs. 
+[Dynamic Discretization Discovery for the Multi-Depot Vehicle Scheduling Problem with Trip Shifting](https://doi.org/10.1287/ijoc.2024.0698) by R.N. van Lieshout and D.T.J. van der Schaft. 
 
 **Important: This code is being developed on an on-going basis at 
 https://github.com/rn-van-lieshout/DDD-MDVSP-TS. Please go there if you would like to
