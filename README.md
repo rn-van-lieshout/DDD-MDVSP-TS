@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
+# DDD for the MDVSP-TS
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
@@ -24,7 +24,7 @@ https://doi.org/10.1287/ijoc.2024.0698.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{DDDforMDVSPTS,
   author =        {Van Lieshout, R.N., Van der Schaft, D.T.J.},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Dynamic Discretization Discovery for the Multi-Depot Vehicle Scheduling Problem with Trip Shifting}},
