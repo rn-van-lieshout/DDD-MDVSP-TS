@@ -25,7 +25,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{DDDforMDVSPTS,
-  author =        {Van Lieshout, R.N., Van der Schaft, D.T.J.},
+  author =        {Van Lieshout, Rolf Nelson and Van der Schaft, Thomas},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Dynamic Discretization Discovery for the Multi-Depot Vehicle Scheduling Problem with Trip Shifting}},
   year =          {2025},
