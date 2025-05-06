@@ -45,4 +45,4 @@ This repository contains the code for solving the Multi-Depot Vehicle Scheduling
 
 The code depends on CPLEX to solve all LPs and MIPs. 
 
-All data is in the folder "dataEUC", and the source code and scriptis are in "src". 
+All data is in the folder "dataEUC", and the source code and scripts are in "src". 
